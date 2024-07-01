@@ -16,8 +16,8 @@ public class GoodsApp {
 		
 		//니콘 추가
 		Goods camera = new Goods();
-		cup.name = "니콘";
-		cup.price = 400000;
+		camera.name = "니콘";
+		camera.price = 400000;
 		
 		
 		//컴퓨터가격
