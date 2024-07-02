@@ -10,14 +10,14 @@ public class Point {
 	
 	//메소드
 	//get set
-	public void setPointX(int i) {
-		x = i;	}
+	public void setPointX(int x) {
+		this.x = x;	}
 	public int getPointX() {
-		return x;	}
-	public void setPointY(int i) {
-		y = i;	}
+		return this.x;	}
+	public void setPointY(int y) {
+		this.y = y;	}
 	public int getPointY() {
-		return y;	}
+		return this.y;	}
 	
 	
 	//일반이름
